@@ -29,13 +29,15 @@ const Portfolio = ({ data }) => {
     <section id="portfolio">
       <div className="row">
         <div className="twelve columns collapsed">
-          <h1>Check Out Some of My Works.</h1>
 
+          <a title="Project Showcase" href="https://sgii-portfolio.netlify.app/projects.html">
+                 <h1>Check Out My Projects</h1>
+              </a>
           <div
             id="portfolio-wrapper"
             className="bgrid-quarters s-bgrid-thirds cf"
           >
-            {projects}
+
           </div>
         </div>
       </div>

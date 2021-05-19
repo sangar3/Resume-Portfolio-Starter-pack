@@ -117,7 +117,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #e5383b; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -194,16 +194,16 @@ ul#nav li.current a { color: #e5383b; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: #e5383b; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #e5383b;
    margin-bottom: 12px;
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #ffffff;
 }
 #about .profile-pic {
    position: relative;
@@ -318,7 +318,7 @@ ul#nav li.current a { color: #e5383b; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #e5383b;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
