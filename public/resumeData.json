@@ -1,26 +1,26 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "name": "Santiago Garcia II ",
+    "occupation": "Computer Science Graduate",
+    "description": "I love coding and sports",
+    "image": "propic.png",
+    "bio": "Hello World! I'm a Bradley University graduate that majored in Computer Science. So far in my software engineering experience, I have worked on many different types of programming projects in school, in my internships, or in my free time. This lead to being exposed to and have great experience in a plethora of programming languages and frameworks.",
+    "contactmessage": "Get in touch!",
+    "email": "sg17arcia@gmail.com",
+    "phone": "+1 8474180625",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+
+      "city": "Chicago",
+      "state": "Illinois"
+
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://sgii-portfolio.netlify.app/",
+    "resumedownload": "https://sgii-portfolio.netlify.app/SantiagoGarciaII_Resume2021.pdf",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
+        "name": "github",
+        "url": "https://github.com/sangar3",
+        "className": "fa fa-github"
       },
       {
         "name": "facebook",
@@ -29,17 +29,17 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/santiago-garcia-ii-84a64a197/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
+        "name": "Twitter",
+        "url": "https://twitter.com/almightysanti17?lang=en",
+        "className": "fa fa-twitter"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/sangar3",
         "className": "fa fa-github"
       }
     ]
@@ -48,41 +48,67 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "Bradley University",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "graduated": "May 2021",
+        "description": "A member of Society of Hispanic Professional Engineers(SHPE) club"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "WSP, Inc.",
+        "title": "Software Engineer Intern",
+        "years": "12/2020 - 01/2021",
+        "description": "Assigned overall improvement object detection application from summer 2020."
+      },
+      {
+        "company": "WSP, Inc.",
+        "title": "Software Engineer  Intern",
+        "years": "05/2020 - 08/2020",
+        "description": "Assigned in the creation of an object detection application."
+      },
+      {
+        "company": "WSP, Inc.",
+        "title": "Computer Information System Intern:",
+        "years": "05/2019 - 08/2019",
+        "description": " Worked with a Senior Data Science Analyst/Programmer to verify, and sort Illinois State Tollway Database(s) by using JavaScript and specific SQL commands on Google Sheets."
+      },
+      {
+        "company": "GSG Consultants, Inc.",
+        "title": "Information Technology  Intern",
+        "years": "05/2018 - 08/2018",
+        "description": "Set up new computer systems for engineers. Introduced to basic command lines of Windows and Linux to install dedicated software for engineers."
+      },
+      {
+        "company": "The Resurrection Project",
+        "title": "Information Technology  Intern",
+        "years": "05/2017 - 08/2017",
+        "description": "Documented and recorded inventory of TRP’s computer equipment, and assisted the maintenance of IT-related inventory records and documentation for equipment."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Python",
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "Javascript",
         "level": "85%"
+      },
+      {
+        "name": "Web Development",
+        "level": "85%"
+      },
+      {
+        "name": "data Science",
+        "level": "81%"
       },
       {
         "name": "Git",
         "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
       }
+
+
     ]
   },
   "portfolio": {
