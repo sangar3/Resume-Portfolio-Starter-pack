@@ -1,4 +1,7 @@
 import React from "react";
+import Button from '@material-ui/core/Button';
+import Icon from '@material-ui/core/Icon';
+
 
 const Portfolio = ({ data }) => {
   if (data) {
@@ -29,9 +32,13 @@ const Portfolio = ({ data }) => {
     <section id="portfolio">
       <div className="row">
         <div className="twelve columns collapsed">
-
+        
+                     
+                 
           <a title="Project Showcase" href="https://sgii-portfolio.netlify.app/projects.html">
-                 <h1>Check Out My Projects</h1>
+                 <h1 className="bold">Click Here Check Out My Projects</h1>
+                 
+                 
               </a>
           <div
             id="portfolio-wrapper"

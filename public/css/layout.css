@@ -94,7 +94,9 @@ header .social li {
    margin: 0 15px;
    padding: 0;
 }
-header .social li a { color: black; }
+
+/* Icon Color */
+header .social li a { color: white; }
 header .social li a:hover { color: #e5383b; }
 
 /* scrolldown link */

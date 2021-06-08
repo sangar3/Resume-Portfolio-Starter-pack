@@ -39,11 +39,11 @@ const Header = ({ data }) => {
               About
             </a>
           </li>
-          <li>
+          {/* <li>
             <a className="smoothscroll" href="#resume">
               Work Experience
             </a>
-          </li>
+          </li> */}
           <li>
             <a className="smoothscroll" href="#portfolio">
               Project Showcase
@@ -54,11 +54,11 @@ const Header = ({ data }) => {
           {/*    Testimonials*/}
           {/*  </a>*/}
           {/*</li>*/}
-          <li>
+          {/* <li>
             <a className="smoothscroll" href="#contact">
               Contact Me
             </a>
-          </li>
+          </li> */}
         </ul>
       </nav>
 
